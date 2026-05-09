@@ -164,41 +164,101 @@ hospital-appointment-system
 
 ## 📱 用户端展示
 
+### 用户中心页
+
+![用户中心页](README-assets/app-user.png)
+
+---
+
+### 科室选择页
+
+![科室选择页](README-assets/app-department.png)
+
+---
+
+### 医生详情页
+
+![医生详情页](README-assets/app-doctor.png)
+
+---
+
+### 医生列表页
+
+![医生列表页](README-assets/app-doctorList.png)
+
+---
+
 ### 首页
 
 ![首页](README-assets/app-home.png)
 
 ---
 
-### 医生列表
+### 个人中心页
 
-![医生列表](README-assets/app-doctor.png)
+![个人中心页](README-assets/app-my.png)
 
 ---
 
-### 我的预约
+### 资讯页
 
-![我的预约](README-assets/app-appointment.png)
+![资讯页](README-assets/app-news.png)
+
+---
+
+### 预约页
+
+![预约页](README-assets/app-order.png)
 
 ---
 
 # 🖥 后台管理展示
 
-### 后台登录页
+### 公告管理页
 
-![后台登录](README-assets/admin-login.png)
-
----
-
-### 数据管理
-
-![后台管理](README-assets/admin-dashboard.png)
+![公告管理页](README-assets/admin-announcement.png)
 
 ---
 
-### 预约管理
+### 预约管理页
 
-![预约管理](README-assets/admin-appointment.png)
+![预约管理页](README-assets/admin-appointment.png)
+
+---
+
+### 数据统计页
+
+![数据统计页](README-assets/admin-data.png)
+
+---
+
+### 科室管理页
+
+![科室管理页](README-assets/admin-department.png)
+
+---
+
+### 医生管理页
+
+![医生管理页](README-assets/admin-doctor.png)
+
+---
+
+### 登录页
+
+![登录页](README-assets/admin-login.png)
+
+---
+
+### 就诊记录页
+
+![就诊记录页](README-assets/admin-record.png)
+
+---
+
+### 排班管理页
+
+![排班管理页](README-assets/admin-schedule.png)
 
 ---
 
