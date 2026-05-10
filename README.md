@@ -57,6 +57,11 @@ https://hospital-admin-three.vercel.app/login
 
 ---
 
+## 项目结构
+- 后端 API：[hospital-api](https://github.com/xzx-qwery/hospital-api)
+- 管理后台：[hospital-admin](https://github.com/xzx-qwery/hospital-admin)
+- 用户端 H5：[hospital-app](https://github.com/xzx-qwery/hospital-app)
+
 # 📖 项目介绍
 
 Hospital Appointment System 是一个基于前后端分离架构开发的医院预约管理系统。
