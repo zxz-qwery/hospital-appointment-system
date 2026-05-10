@@ -57,6 +57,14 @@ https://hospital-admin-three.vercel.app/login
 
 ---
 
+## 🎬 项目演示视频
+| 功能模块 | 演示视频 |
+| :--- | :--- |
+| 后台管理系统演示 | [![后台演示](https://i0.hdslb.com/bfs/archive/...)](https://www.bilibili.com/video/BV1Ep576HE45) |
+| 用户端 H5 演示 | [![用户端演示](https://i0.hdslb.com/bfs/archive/...)](https://www.bilibili.com/video/BV1qW576DESL) |
+
+---
+
 ## 项目结构
 - 后端 API：[hospital-api](https://github.com/zxz-qwery/hospital-api)
 - 管理后台：[hospital-admin](https://github.com/zxz-qwery/hospital-admin)
