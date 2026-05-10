@@ -304,7 +304,7 @@ hospital-appointment-system
 ## 1️⃣ 克隆项目
 
 ```bash
-git clone https://github.com/你的GitHub用户名/hospital-appointment-system.git
+git clone https://github.com/zxz-qwery/hospital-appointment-system.git
 ```
 
 ---
