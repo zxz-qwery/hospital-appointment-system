@@ -270,13 +270,6 @@ hospital-appointment-system
 git clone https://github.com/你的GitHub用户名/hospital-appointment-system.git
 ```
 
-# 🗄 数据库说明
-
-数据库文件位置：
-
-```text
-database/hospital_system.sql
-
 ---
 
 # ⚙️ 启动后端（Laravel）
