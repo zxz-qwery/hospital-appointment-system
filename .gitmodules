@@ -1,6 +1,6 @@
 [submodule "hospital-api"]
 path = hospital-api
-url = https://github.com/zxz-qwery/hospital-api
+url = https://github.com/zxz-qwery/hospital-api.git
 
 [submodule "hospital-admin"]
 path = hospital-admin
