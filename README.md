@@ -314,6 +314,13 @@ php artisan serve
 
 ---
 
+# 🗄 数据库说明
+
+数据库文件位置：
+
+```text
+database/hospital_system.sql
+
 # 🖥 启动后台管理（Vue3）
 
 进入项目：
